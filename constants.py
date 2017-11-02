@@ -1,5 +1,5 @@
 PAYTM_ACCOUNTS_URL='https://accounts-uat.paytm.com'
-PAYTM_BALANCE_URL='http://trust-uat.paytm.in/service/checkUserBalance'
+PAYTM_BALANCE_URL='https://trust-uat.paytm.in/service/checkUserBalance'
 
 PAYTM_CLIENT_ID='merchant-iride-tech-staging'
 PAYTM_CLIENT_SECRET='89f8b87a-9ff6-4217-b0a9-e3462835a26f'
